@@ -16,4 +16,4 @@ feel free to reach out :) <br/>
 
 I've been coding since 2016 or around 9 years. I love everything and anything low-level, from operating system development to graphics programming. Although I sometimes dabble in web development. My current hyperfixations are functional programming languages and graphics programming.
 
-<center><b>Feel free to mention me in issues or pull requests</b>.</center><br/><br/>
+**Feel free to mention me in issues or pull requests**.
