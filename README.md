@@ -57,14 +57,4 @@ I've been coding since 2016 or around 9 years. I love everything and anything lo
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 </div>
-
-<hr>
-
-<div align="center">
-
-<h3>Statistics</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxzi&show_icons=true&theme=transparent" alt="Top Languages">
-<img src="https://github-readme-stats.vercel.app/api?username=luxzi&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
-
-</div>
 </div>
