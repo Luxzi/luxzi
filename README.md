@@ -12,49 +12,15 @@
 
 feel free to reach out :) <br/>
 **discord**: @luxzi <br/>
-**matrix**: @luxzi:matrix.org <br/>
-**email**: [luxzi@pm.me](mailto:luxzi@pm.me)
+**email**: [contact@lilyvex.dev](mailto:contact@lilyvex.dev)
 
-I've been coding since 2016 or around 9 years. I love everything and anything low-level, from operating system development to graphics programming, although I sometimes dabble in web development.<br/><br/><br/>
+I've been coding since 2016 or around 9 years. I love everything and anything low-level, from operating system development to graphics programming, although I sometimes dabble in web development.
 
-<hr>
-
-<div>
-
-<h3>Languages</h3>
-
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" alt="Nix"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
-
-<h3>Operating Systems</h3>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" alt="NixOS"/>
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux"/>
-<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-
-<h3>IDEs</h3>
-
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-<img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="Emacs"/>
-
-<h3>Databases</h3>
-
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-<h3>Containerization</h3>
-
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
-</div>
+<img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"/>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+<a href="https://git.lilyvex.dev/nonsensical-dev"><img src="https://img.shields.io/badge/Nonsensical%20Dev-fd9c2c?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNTciIGhlaWdodD0iOTEiIHZpZXdCb3g9IjAgMCA1NyA5MSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTI1Ljc4NTggOTFDMjMuMzk0NyA5MSAyMS4zNDI4IDkwLjE0MDcgMTkuNjMwMiA4OC40MjE5QzE3LjkxNzYgODYuNzAzMSAxNy4wNjEzIDg0LjY0MzcgMTcuMDYxMyA4Mi4yNDM5QzE3LjA2MTMgNzkuODQ0IDE3LjkxNzYgNzcuNzg0NiAxOS42MzAyIDc2LjA2NThDMjEuMzQyOCA3NC4zNDcgMjMuMzk0NyA3My40ODc1IDI1Ljc4NTggNzMuNDg3NUMyOC4xNzcxIDczLjQ4NzUgMzAuMjI4OSA3NC4zNDcgMzEuOTQxNSA3Ni4wNjU4QzMzLjY1NCA3Ny43ODQ2IDM0LjUxMDQgNzkuODQ0IDM0LjUxMDQgODIuMjQzOUMzNC41MTA0IDgzLjgzMjggMzQuMTA2NSA4NS4yOTIxIDMzLjI5ODYgODYuNjIxOEMzMi41MjMgODcuOTUxNSAzMS40NzI5IDg5LjAyMTcgMzAuMTQ4MSA4OS44MzI2QzI4Ljg1NTYgOTAuNjEwOSAyNy40MDE1IDkxIDI1Ljc4NTggOTFaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTkuOTY5NCA3Mi4zODQ5VjczLjI1MTdDMjQuMzIxNiA3MC41NDczIDI2LjI1MyA2OS43MDUyIDMxLjYwMjEgNzMuMjUxN1Y3Mi4zODQ5QzMxLjY2NjggNjguMzYzNCAzMi4wODY5IDY1LjAwNyAzMi44NjIyIDYyLjMxNTNDMzMuNjM3OCA1OS42MjM1IDM0Ljg4MTkgNTcuMzA0NyAzNi41OTQ1IDU1LjM1OUMzOC4zMDcgNTMuMzgwNiA0MC41ODUyIDUxLjQ5OTYgNDMuNDI4NyA0OS43MTU5QzQ2LjI3MjMgNDcuOTY0NyA0OC42OTU3IDQ1Ljk1NCA1MC42OTkgNDMuNjgzOUM1Mi43MzQ3IDQxLjQxMzcgNTQuMjg1OCAzOC44MzU2IDU1LjM1MjEgMzUuOTQ5MkM1Ni40NTA4IDMzLjA2MjkgNTcgMjkuODM2MiA1NyAyNi4yNjg3QzU3IDIxLjIwOTYgNTUuODM2OSAxNi43MDE3IDUzLjUxMDIgMTIuNzQ1MkM1MS4yMTYxIDguNzg4NjcgNDcuOTUyNSA1LjY3NTM1IDQzLjcxOTUgMy40MDUyMUMzOS41MTg4IDEuMTM1MDcgMzQuNTc1IDAgMjguODg3OSAwQzIzLjY1MyAwIDE4Ljg4NjkgMS4wMzc3NyAxNC41ODkzIDMuMTEzMzJDMTAuMzI0IDUuMTg4ODkgNi44ODI2NiA4LjE4ODcxIDQuMjY1MzIgMTIuMTEyOEMxLjY4MDI4IDE2LjAzNjkgMC4yNTg1MSAyMC43NTU1IDAgMjYuMjY4N0MwLjUwOTUzNyAyOS4wODc0IDMuOTQ5NzggMzEuMjk0NiA4LjEyNzE4IDMzLjAwOTFDMTguMjk2MyAzNS44NDc3IDE3LjU2NTkgMzUuNzA1MyAyNC41Njc2IDM1Ljg0NzdDMzkuNzI2NCAzNS41NTcyIDQxLjcxOTMgMjguNzk0OCA0MS4xNTg2IDIzLjExNTNDNDAuMjM2OSAxNy43NDA0IDMzLjI4NyAxMy4xMjI5IDI1LjM2OTcgMTQuMjEyMkMxNC41MzIxIDE2LjUwOCAxNi45NyAyNS40NTYgMTguMjk2MyAyNi45Mzk3QzE5LjQyNzggMjguNDAwMiAyMC44OCAyOC44ODIxIDIzLjAxNDEgMjkuMDg3NEgyNC43NzYyQzM3Ljc3NSAyOC4xNzg0IDMyLjkwMDggMTkuNTIyMyAyNy4yNTEyIDIwLjYwNDhDMjYuMTI4OSAxNy40Mjg5IDI1LjQzOTMgMjQuNTYzMiAyNy4wOTI2IDIxLjYzMzFDMzAuNTAyOSAyMS43NzUyIDMwLjI4NDEgMjQuMDc3NCAyOS41NTIxIDI0Ljg4NDFDMjcuMTY3NCAyNy44MjA4IDE4LjcxOSAyNy40MzM1IDE5LjkyNTYgMjIuOTQ3NEMyMi45NjYzIDExLjg1ODMgMzcuNzc3OCAxNy40NzY3IDM3LjI1NTYgMjUuMjIzMkMzNi44MTc1IDMyLjU0NjIgMjAuNzEgMzAuODE0NSAxOS4yODI1IDMwLjM4OTZDMTcuNDM5MSAzMC4wNjc0IDEyLjM2NjggMjguMTQwNCAxMi4yMTQzIDI2LjI2ODdDMTIuNDcyOCAyMi40NDE5IDEzLjQyNiAxOS4zNDQ4IDE1LjA3NCAxNi45Nzc0QzE2LjcyMiAxNC42MDk5IDE4Ljc3MzggMTIuODc0OSAyMS4yMjk2IDExLjc3MjNDMjMuNjg1NCAxMC42Njk2IDI2LjIzODEgMTAuMTE4MyAyOC44ODc5IDEwLjExODNDMzEuOTI1MiAxMC4xMTgzIDM0LjY4NzkgMTAuNzUwNyAzNy4xNzYgMTIuMDE1NUMzOS42NjQxIDEzLjI4MDMgNDEuNjUxNSAxNS4wODAyIDQzLjEzNzcgMTcuNDE1MkM0NC42MjQyIDE5Ljc1MDIgNDUuMzY3NCAyMi41MDY3IDQ1LjM2NzQgMjUuNjg1MUM0NS4zNjc0IDI4LjI0NyA0NC45MTQ5IDMwLjU4MiA0NC4wMTAzIDMyLjY5QzQzLjEwNTcgMzMuOTExMSA0MS45NDIzIDM2LjY2MjYgNDAuNDIzNSAzOC4yODQyQzM4LjkwNDcgMzkuODczNCAzNy4xOTIyIDQxLjI1MTcgMzUuMjg1OSA0Mi40MTkxQzMyLjExOSA0NC4zMzI2IDI5LjQwNDggNDYuNDI0MyAyNy4xNDMgNDguNjk0M0MyNC44ODEgNTAuOTY0NiAyMy4xMzYxIDUzLjkzMTggMjEuOTA4MSA1Ny41OTY2QzIwLjY4MDQgNjEuMjYxMyAyMC4wMzQxIDY2LjE5MDcgMTkuOTY5NCA3Mi4zODQ5WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+" alt="Nonsensical Dev"/></a>
 </div>
